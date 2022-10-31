@@ -23,11 +23,11 @@ namespace ConsoleApp1
             }
             if (b == true)
             {
-                Console.WriteLine("le nombre est un nombre premier");
+                Console.WriteLine("le nombre est premier");
             }
             else
             {
-                Console.WriteLine("le nombre n 'est pas premier");
+                Console.WriteLine("le nombre n'est pas premier");
             }
         }
     }
